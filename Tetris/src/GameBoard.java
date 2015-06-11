@@ -17,7 +17,7 @@ public class GameBoard {
 
     //copy the tetromino onto the gameboard with nested loop structure.
     //x and y coordinates specify the new location for copy, use 1 to fill the array with the tetromino.
-    public void set(Tetronimo x, int x, int y){
+    public void set(Tetronimo t, int x, int y){
 
     }
 
